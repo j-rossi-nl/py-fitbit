@@ -1,0 +1,13 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Team",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 3 - Alpha",
+  "email": "j.rossi@uva.nl",
+  "friendly_name": "Python bindings of Fitbit WebAPI",
+  "github_user": "j-rossi-nl",
+  "license": "MIT",
+  "package_name": "py-fitbit",
+  "project_name": "python-fitbit",
+  "version": "0.0.0"
+}

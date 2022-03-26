@@ -1,0 +1,10 @@
+[flake8]
+exclude = tests/*,samples/*
+select = B,B9,C,DAR,E,F,S,W
+ignore = E203,E501,RST201,RST203,RST301,W503,B950
+max-line-length = 88
+max-complexity = 10
+docstring-convention = google
+per-file-ignores = tests/*:S101,**/__init__.py:F401
+rst-roles = class,const,func,meth,mod,ref
+rst-directives = deprecated
