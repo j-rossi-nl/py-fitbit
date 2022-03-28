@@ -42,7 +42,7 @@ jobs:
         uses: salsify/action-detect-and-tag-new-version@v2.0.1
         with:
           version-command: |
-            cd /home/runner/work/python-fitbit/python-fitbit && bash -o pipefail -c "poetry version | awk '{ print \$2 }'"
+            cd /home/runner/work/py-fitbit/py-fitbit && bash -o pipefail -c "poetry version | awk '{ print \$2 }'"
 
       - name: Bump version for developmental release
         if: "! steps.check-version.outputs.tag"
