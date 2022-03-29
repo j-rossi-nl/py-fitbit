@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/python-fitbit.iml" filepath="$PROJECT_DIR$/.idea/python-fitbit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/py-fitbit.iml" filepath="$PROJECT_DIR$/.idea/py-fitbit.iml" />
     </modules>
   </component>
 </project>
