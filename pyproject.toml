@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "py-fitbit"
-version = "1.0.0"
+version = "1.0.1"
 description = "Python bindings for Fitbit Web API"
 authors = ["Team <j.rossi@uva.nl>"]
 license = "Apache-2.0"
